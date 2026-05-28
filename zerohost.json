@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "runtime": "python",
+    "entry": "start.sh",
+    "install": "echo 'no deps needed'",
+    "port": 5000,
+    "healthcheck": "/"
+}
